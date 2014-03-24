@@ -1,4 +1,7 @@
-Android-Testing
+Android-Testing:
+===============
+
+# M0blizer:
 ===============
 
 Moblizer helps you do static analysis of any android application or .apk file. As it is a very premature tool we have included very limited functionality such as information disclosure automation from the source code of the .apk file. And there are certain limitations but still we are useing it in our daily pentesting projects and it helped us saving lots of time and decreases our effort. Hope it will help you also.
